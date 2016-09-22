@@ -3,8 +3,8 @@
 #Ingredients
 - avocado
 - lemon
-- tomato
+- ~~tomato~~
 
 #Instructions
-Put it *all* in blender
+Put it *all* in **blender**
 
